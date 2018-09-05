@@ -1,0 +1,11 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.idea/*
+__pycache__
+*.log!important.log
+*.lock
+*.tmp
+*/*.txt
+Thumbs.db
+debug?.log
+Data/*
+test.py
